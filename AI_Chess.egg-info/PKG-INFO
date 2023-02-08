@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: AI-Chess
-Version: 2.0.1
+Version: 2.0.7
 Summary: Basic chess features that includes an AI for decision making in Python
 Author: mtootoonchi (Matthew Faraz Tootoonchi)
 Author-email: <mftootoonchi@gmail.com>
@@ -8,7 +8,7 @@ License: MIT
 Keywords: python,chess,AI,Artificial Intelligence,game,puzzle
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
-Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3 :: Only
 Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Operating System :: Microsoft :: Windows
