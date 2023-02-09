@@ -4,7 +4,7 @@ Basic chess features that includes an AI for decision making in Python
 
 # Install Guide
 
-To install packages run in terminal (Python 3.7+):
+To install packages run in terminal (Python 3.9+):
 
         pip install AI-Chess
 

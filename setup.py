@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     LONG_DESCRIPTION = "\n" + fh.read()
 
-VERSION = '2.0.7'
+VERSION = '2.0.8'
 DESCRIPTION = 'Basic chess features that includes an AI for decision making in Python'
 
 # Setting up
